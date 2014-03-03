@@ -1,5 +1,5 @@
 body {
-    font-family: 'proxima-nova';
+    font-family: 'iwan-reschniev';
     font-size: 14px;
     font-style: normal;
     font-weight: 300;
@@ -43,7 +43,8 @@ body {
 h1 {
     font-size: 35px;
     line-height: 46px;
-    font-family: proxima-nova;
+    font-family: iwan-reschniev
+;
     font-style: normal;
     font-weight: 100;
     letter-spacing: 7px;
@@ -61,7 +62,8 @@ h2 {
 h3 {
     font-style: normal;
     font-weight: 700;
-    font-family: proxima-nova;
+    font-family: iwan-reschniev
+;
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -71,7 +73,8 @@ h3 {
 h5 {
     font-style: normal;
     font-weight: 100;
-    font-family: proxima-nova;
+    font-family: iwan-reschniev
+;
     font-size: 12px;
     letter-spacing: 2px;
     margin-bottom: 10px;
@@ -81,7 +84,8 @@ h5 {
 p {
     font-style: normal;
     font-weight: 300;
-    font-family: proxima-nova;
+    font-family: iwan-reschniev
+;
     font-size: 14px;
     line-height: 22px;
     letter-spacing: 1px;
@@ -675,7 +679,8 @@ footer a:focus {
     margin-bottom: 5px;
 }
 .newsletter .signup {
-    font-family: proxima-nova;
+    font-family: iwan-reschniev
+;
     font-size: 12px;
     padding: 10px 10px 9px 13px;
     border-radius: 0;
@@ -747,7 +752,8 @@ footer .nowrap {
 }
 footer .btn {
     font-weight: 100;
-    font-family: proxima-nova;
+    font-family: iwan-reschniev
+;
 }
 
 @media (max-width: 767px) {
