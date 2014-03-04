@@ -1,5 +1,5 @@
 body {
-    font-family: 'gesta';
+    font-family: 'Carrois Gothic SC';
     font-size: 14px;
     font-style: normal;
     font-weight: 300;
@@ -43,7 +43,7 @@ body {
 h1 {
     font-size: 35px;
     line-height: 46px;
-    font-family: gesta
+    font-family: Carrois Gothic SC
 ;
     font-style: normal;
     font-weight: 100;
@@ -62,7 +62,7 @@ h2 {
 h3 {
     font-style: normal;
     font-weight: 700;
-    font-family: gesta
+    font-family: Carrois Gothic SC
 ;
     font-size: 13px;
     text-transform: uppercase;
@@ -73,7 +73,7 @@ h3 {
 h5 {
     font-style: normal;
     font-weight: 100;
-    font-family: gesta
+    font-family: Carrois Gothic SC
 ;
     font-size: 12px;
     letter-spacing: 2px;
@@ -84,7 +84,7 @@ h5 {
 p {
     font-style: normal;
     font-weight: 300;
-    font-family: gesta
+    font-family: Carrois Gothic SC
 ;
     font-size: 14px;
     line-height: 22px;
@@ -679,7 +679,7 @@ footer a:focus {
     margin-bottom: 5px;
 }
 .newsletter .signup {
-    font-family: gesta
+    font-family: Carrois Gothic SC
 ;
     font-size: 12px;
     padding: 10px 10px 9px 13px;
@@ -752,7 +752,7 @@ footer .nowrap {
 }
 footer .btn {
     font-weight: 100;
-    font-family: gesta
+    font-family: Carrois Gothic SC
 ;
 }
 
